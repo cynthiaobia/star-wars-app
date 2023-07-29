@@ -1,11 +1,11 @@
 
-import StarShipsList from "./StarShipsList";
+import StarShipsCard from "./StarShipsCard";
 
 function StarShips(){
     return (
         <div>
             <h1>Star Wars Star Ships</h1>
-            <StarShipsList />
+            <StarShipsCard />
         </div>
     )
 }

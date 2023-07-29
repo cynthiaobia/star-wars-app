@@ -1,12 +1,6 @@
 import './App.css';
 
-import { getPeople } from './services/sw-api';
-
 import StarShips from './components/StarShips';
-
-getPeople();
-
-
 
 function App() {
   return (
